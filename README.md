@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Bitwiser Data Financial Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bitwiser is a personal project where I explore the possibilities of using React and Tailwind to create a static website. With Tailwind and React I was able to build a responsive and comfortable to use website that users can easily navigate.
 
-## Available Scripts
+## Visual Overview
 
-In the project directory, you can run:
+![Live Demo](./src/assets/bitwiser-showcase.png)
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
+- [Tailwind CSS](https://tailwindcss.com/) - low-level CSS framework.
+- [React Icons](https://react-icons.github.io/react-icons/) - Collection of icons for React applications.
+- [React Typed](https://www.npmjs.com/package/react-typed) - Animated typing effects in React applications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+Follow these steps to set up the project on your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository:
 
-### `npm run build`
+   ```shell
+   git clone https://github.com/khalid-nur/bitwiser-finance-static-website.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navigate to the project directory:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```shell
+   cd bitwiser-finance-static-website
 
-### `npm run eject`
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Install the required dependencies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```shell
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Feel free to use this project as a starting point for your own website or as a reference for learning React, Tailwind, and other related. To start the development server and view the website, run the following command:
 
-## Learn More
+```shell
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Khalid Nur
 
-### Code Splitting
+- GitHub: [khalid-nur](https://github.com/khalid-nur)
+- LinkedIn: [khalidnur](https://www.linkedin.com/in/khalidnur/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contribute
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Show your support by ⭐ the project.
